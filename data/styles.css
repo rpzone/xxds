@@ -67,6 +67,10 @@
 }
 .line {
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .image {
 }
 .placeholder {
@@ -74,4 +78,8 @@
 .button {
 }
 .icon {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
