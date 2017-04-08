@@ -71,7 +71,16 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
 .sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
   text-align:left;
 }
 .sticky_3 {
@@ -88,4 +97,13 @@
 .text_field {
   color:#000000;
   text-align:left;
+}
+.connector {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:13px;
+  color:#666666;
+  text-align:center;
+  line-height:normal;
 }
